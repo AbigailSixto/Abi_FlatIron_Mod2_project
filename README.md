@@ -18,7 +18,12 @@ We will obtain some data from a SQL database and load to a MongoDB database perf
 4. A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly)
 5. The team's win percentage on days where it was raining during games in the 2011 season. 
 
+## Project structure
 
+* Query the SQL database
+* Calculate summary statistics
+* Get the weather data from the DarkSky API
+* Load the data into MongoDB
 
 
 
